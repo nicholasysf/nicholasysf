@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @nicholasysf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning : Full stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nicholasysf/nicholasysf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Nicholas!
+- 👀 I’m interested in learning all things under the sun!
+- 🌱 I’m currently learning : Full stack web developer.
+- 💞️ I’m looking to find a full time job as a software enigneer! 
+- 📫 You can reach me at nicholasysf@gmail.com / https://www.linkedin.com/in/nicholasysf/.
