@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicholas!
 - 👀 I’m interested in learning all things under the sun!
-- 🌱 I’m currently learning : MERN stack.
+- 🌱 I’m currently learning : Front-end.
 - 💞️ I’m looking to find a full time job as a software enigneer! 
 - 📫 You can reach me at nicholasysf@gmail.com / https://www.linkedin.com/in/nicholasysf/.
